@@ -1,62 +1,51 @@
-# 🌐 TECHNEST - Modern Web Development Agency
+# 🌐 TECHNEST — Web & App Development Agency
 
-![TECHNEST Logo](https://img.freepik.com/free-vector/gradient-coding-logo-template_23-2148817993.jpg)
-
-Welcome to **TECHNEST** – Your trusted partner in crafting responsive, modern, and scalable websites and apps.
+Welcome to **TECHNEST**, where innovation meets functionality. We are a modern agency focused on building **scalable web apps**, **intuitive user experiences**, and **robust backend systems** to help businesses grow in the digital era.
 
 ---
 
-## 🚀 Services We Offer
+## 💼 Our Services
 
-🔹 Custom Website Development  
-🔹 MERN Stack Applications  
-🔹 E-commerce Solutions  
-🔹 Web & Mobile App Integration  
-🔹 API & Backend Development  
-🔹 UI/UX Design and Prototyping  
-🔹 SEO-Optimized, Performance-focused Code  
+- ⚛️ **MERN Stack Web Development**  
+  High-performance websites & web apps using MongoDB, Express.js, React.js, and Node.js.
 
----
+- 🎨 **UI/UX Design**  
+  Creating elegant, user-centered interfaces with Figma, Adobe XD & modern design systems.
 
-## 💼 Our Vision
+- 📱 **Mobile App Development**  
+  Cross-platform apps built with React Native and Flutter.
 
-At **TECHNEST**, we believe in blending **creativity, innovation, and technology** to build digital experiences that make an impact.
+- 📊 **Digital Marketing & SEO**  
+  Data-driven strategies to grow your brand’s online visibility.
 
----
-
-## 🛠️ Tech Stack
-
-- React.js | Next.js
-- Node.js | Express.js
-- MongoDB | PostgreSQL
-- Tailwind CSS | Bootstrap
-- Python | Django
-- Firebase | REST APIs
-- Git | GitHub | CI/CD
+- 🛒 **eCommerce Solutions**  
+  Fully-functional, secure online stores with custom admin dashboards.
 
 ---
 
-## 📸 Showcase
+## 🚀 Why TECHNEST?
 
-![Web Banner](https://img.freepik.com/premium-vector/modern-digital-marketing-agency-organic-wavy-shapes-linkedin-social-media-cover-web-banner-design_31768823.jpg)
-
----
-
-## 📬 Let's Connect
-
-- 📧 Email: technest.agency@gmail.com  
-- 🌐 Website: [Coming Soon]  
-- 💼 LinkedIn: [Your LinkedIn]  
-- 📍 Location: Global / Remote
+- ✅ Fast, scalable & secure code
+- 🎯 Goal-oriented development process
+- 🤝 Transparent communication
+- 🧠 Agile team of creative thinkers & problem solvers
+- 🌍 Remote-ready with global collaboration
 
 ---
 
-## 📌 Hire Us!
+## 📈 Our Tech Stack
 
-Looking to build something amazing? Let’s talk!
-
-> _“Turning your digital dreams into stunning realities.”_ 🚀
+![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,figma,git,github,html,css,js,tailwind,vercel)
 
 ---
 
-© 2025 TECHNEST. All rights reserved.
+## 📬 Let’s Build Together!
+
+We’d love to collaborate with you on your next big idea.  
+📩 Reach out: **technest.agency@gmail.com**  
+🌐 Portfolio/Website: _coming soon_  
+🔗 Follow us: [Facebook](#) • [LinkedIn](#) • [Instagram](#)
+
+---
+
+> “We don't just build websites, we build digital experiences.” — TECHNEST Team
