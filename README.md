@@ -42,7 +42,7 @@ Welcome to **TECHNEST**, where innovation meets functionality. We are a modern a
 ## 📬 Let’s Build Together!
 
 We’d love to collaborate with you on your next big idea.  
-📩 Reach out: **technest.agency@gmail.com**  
+📩 Reach out: **technestagencies@gmail.com**  
 🌐 Portfolio/Website: _coming soon_  
 🔗 Follow us: [Facebook](#) • [LinkedIn](#) • [Instagram](#)
 
